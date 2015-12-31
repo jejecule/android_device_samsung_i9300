@@ -1,9 +1,9 @@
 [
   {
-     "remote": "CyanogenMod",
-     "repository": "android_device_samsung_smdk4412-common",
+     "remote": "github",
+     "repository": "jejecule/android_device_samsung_smdk4412-common",
      "target_path": "device/samsung/smdk4412-common",
-     "revision": "cm-13.0"
+     "revision": "6.0.0"
   },
   { 
     "remote": "CyanogenMod",
